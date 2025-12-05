@@ -177,10 +177,13 @@ section h2 {
 /* About Component */
 .about {
   padding: 40px 15px;
+  background-color: #131212;
+  
 }
 
 .about h2 {
   color: #00ff88;
+  font-family:cursive;
 }
 
 .about-content {
@@ -238,17 +241,17 @@ section h2 {
 }
 
 .instagram-btn {
-  background: linear-gradient(45deg, #405DE6, #C13584);
+  background: linear-gradient(45deg, #1da16f, #2f2b2d);
   color: white;
 }
 
 .notes-btn {
-  background: linear-gradient(45deg, #4285F4, #34A853);
+  background: linear-gradient(45deg, #1da16f, #2f2b2d);
   color: white;
 }
 
 .ecommerce-btn {
-  background: linear-gradient(45deg, #FF6B6B, #4ECDC4);
+  background: linear-gradient(45deg, #1da16f, #2f2b2d);
   color: white;
 }
 
@@ -269,7 +272,7 @@ section h2 {
   border-radius: 50%;
   aspect-ratio: 1/1;
   object-fit: cover;
-  border: 3px solid #00ff88;
+  border: 3px solid #808382;
   display: block;
   margin: 0 auto;
   box-shadow: 0 5px 15px rgba(0, 255, 136, 0.2);

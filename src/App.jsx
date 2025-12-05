@@ -93,8 +93,8 @@ function App() {
       <section id="contact" className="contact">
         <h2>CONTACT ME</h2>
         <div className="contact-info">
-          <p>📧 Email: arjun@example.com</p>
-          <p>📱 Phone: +91 98765 43210</p>
+          <p>📧 Email: as3388776@gmail.com</p>
+          <p>📱 Phone: 9518428927</p>
           <p>📍 Location: Noida, India</p>
         </div>
       </section>

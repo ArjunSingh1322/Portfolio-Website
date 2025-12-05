@@ -1,4 +1,5 @@
 import React from 'react'
+import ArjunImage from "../assets/Arjun.jpeg"
 
 function About() {
   return (
@@ -55,7 +56,7 @@ function About() {
           </div>
         </div>
         <div className="about-image">
-          <img src="./src/assets/Arjun.jpeg" alt="Arjun" />
+          <img src={ArjunImage} alt="Arjun" />
         </div>
       </div>
     </section>
